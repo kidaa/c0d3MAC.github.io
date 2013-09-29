@@ -1,0 +1,7 @@
+# Ignore compiled docs
+_gh_pages
+
+# Folders to ignore
+c0d3.github.com
+jekyll-bootstrap
+jekyll-theme-the_minimum
