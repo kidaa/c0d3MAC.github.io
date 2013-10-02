@@ -5,6 +5,6 @@ _site/
 
 # Folders to ignore
 c0d3.github.com
-#jekyll-bootstrap
+jekyll-bootstrap
 #jekyll-theme-the_minimum
 #Semantic-UI
