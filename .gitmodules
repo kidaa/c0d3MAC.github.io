@@ -1,0 +1,6 @@
+[submodule "External/jekyll-bootstrap"]
+    path = External/jekyll-bootstrap
+    url = https://github.com/plusjade/jekyll-bootstrap.git
+[submodule "External/jekyll-theme-the_minimum"]
+    path = External/jekyll-theme-the_minimum
+    url = https://github.com/studiomohawk/jekyll-theme-the_minimum.git
