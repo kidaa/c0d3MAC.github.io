@@ -2,3 +2,4 @@ source 'https://rubygems.org'
 gem'spec'
 gem 'github-pages'
 gem "jekyll", "~> 1.2.1"
+gem "bundler", "~> 1.3.5"
