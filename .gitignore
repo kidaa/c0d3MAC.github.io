@@ -1,3 +1,7 @@
+*~
+.DS_Store
+.AppleDouble
+
 # Ignore compiled docs
 
 # Folders to ignore
