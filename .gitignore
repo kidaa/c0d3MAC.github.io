@@ -1,6 +1,19 @@
 *~
 .DS_Store
 .AppleDouble
+Gemfile.lock
+test/dest
+*.gem
+pkg/
+*.swp
+_site/
+.bundle/
+bbin/
+gh-pages/
+site/_site/
+coverage
+.ruby-version
+.sass-cache
 
 # Ignore compiled docs
 
