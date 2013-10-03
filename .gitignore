@@ -1,3 +1,10 @@
+*~
+.DS_Store
+.AppleDouble
+/.gitmodules
+_site/
+
+
 # Ignore compiled docs
 
 # Folders to ignore
